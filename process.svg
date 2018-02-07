@@ -1,50 +1,52 @@
-<svg width="2706" height="174" viewBox="0 0 2706 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<title>Group</title>
+<svg width="3062" height="610" viewBox="0 0 3062 610" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Component</title>
 <desc>Created using Figma</desc>
-<g id="Canvas" transform="matrix(2 0 0 2 1064 -42)">
+<g id="Canvas" transform="matrix(2 0 0 2 954 188)">
+<g id="Component">
 <g id="Group">
 <g id="Prototype challenge">
 <g id="Prototype challenge">
-<use xlink:href="#path0_fill" transform="translate(-532 21)" fill="#F2F2F2"/>
+<use xlink:href="#path0_fill" transform="translate(-375 1)" fill="#F2F2F2"/>
 </g>
 </g>
 <g id="Prototype challenge">
 <g id="Prototype">
-<use xlink:href="#path1_fill" transform="translate(377 33)" fill="#F2F2F2"/>
+<use xlink:href="#path1_fill" transform="translate(534 13)" fill="#F2F2F2"/>
 </g>
 </g>
 <g id="Prototype challenge">
 <g id="User Testing">
-<use xlink:href="#path2_fill" transform="translate(687 21)" fill="#F2F2F2"/>
+<use xlink:href="#path2_fill" transform="translate(844 1)" fill="#F2F2F2"/>
 </g>
 </g>
 <g id="Prototype challenge">
 <g id="Storyboarding">
-<use xlink:href="#path3_fill" transform="translate(20 30)" fill="#F2F2F2"/>
+<use xlink:href="#path3_fill" transform="translate(177 10)" fill="#F2F2F2"/>
 </g>
 </g>
 <g id="Prototype challenge">
 <g id="Ideation">
-<use xlink:href="#path4_fill" transform="translate(-240 30)" fill="#F2F2F2"/>
+<use xlink:href="#path4_fill" transform="translate(-83 10)" fill="#F2F2F2"/>
 </g>
 </g>
 <g id="Arrow">
 <g id="Arrow">
-<use xlink:href="#path5_stroke" transform="matrix(1 -8.67362e-19 8.67362e-19 1 -341 59)" fill="#F2F2F2"/>
+<use xlink:href="#path5_stroke" transform="matrix(1 -8.67362e-19 8.67362e-19 1 -184 39)" fill="#F2F2F2"/>
 </g>
 </g>
 <g id="Arrow">
 <g id="Arrow">
-<use xlink:href="#path5_stroke" transform="matrix(1 -8.67362e-19 8.67362e-19 1 -81 59)" fill="#F2F2F2"/>
+<use xlink:href="#path5_stroke" transform="matrix(1 -8.67362e-19 8.67362e-19 1 76 39)" fill="#F2F2F2"/>
 </g>
 </g>
 <g id="Arrow">
 <g id="Arrow">
-<use xlink:href="#path5_stroke" transform="matrix(1 -8.67362e-19 8.67362e-19 1 269 59)" fill="#F2F2F2"/>
+<use xlink:href="#path5_stroke" transform="matrix(1 -8.67362e-19 8.67362e-19 1 426 39)" fill="#F2F2F2"/>
 </g>
 </g>
 <g id="Arrow">
-<use xlink:href="#path5_stroke" transform="matrix(1 -8.67362e-19 8.67362e-19 1 564 62)" fill="#F2F2F2"/>
+<use xlink:href="#path5_stroke" transform="matrix(1 -8.67362e-19 8.67362e-19 1 721 42)" fill="#F2F2F2"/>
+</g>
 </g>
 </g>
 </g>
